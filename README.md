@@ -18,20 +18,25 @@ Currently, I'm improving my skills in **JavaScript, PHP, SQL, and MySQL**, while
 
 ## Technical Skills
 
-### Programming
+### Languages
 
-* JavaScript
-* PHP
-* SQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+</p>
 
 ### Database
 
-* MySQL
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+</p>
 
 ### Tools
 
-* Git
-* GitHub
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+</p>
 
 ---
 

@@ -80,6 +80,6 @@ A back-end project focused on managing a vehicle fleet and rental operations.
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodesByMad&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats-sage-nine-73.vercel.app/api?username=CodesByMad&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByMad&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats-sage-nine-73.vercel.app/api/top-langs/?username=CodesByMad&layout=compact&hide_border=true&theme=transparent)

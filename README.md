@@ -1,8 +1,9 @@
-# Hi! I'm Madeline 
+# Hi! I'm Madeline
 
-Software Engineering student at **Federal University of Ceará (UFC)**,
-Back-End Developer in training,
-Interested in building systems and working with **JavaScript, PHP, SQL, and MySQL**
+Software Engineering student at **Federal University of Ceará (UFC)**  
+and **Back-End Developer in training**.
+
+Interested in building systems and working with **JavaScript, PHP, SQL, and MySQL**.
 
 ---
 
@@ -42,20 +43,23 @@ Currently, I'm improving my skills in **JavaScript, PHP, SQL, and MySQL**, while
 
 ## Featured Project
 
-### Vehicle Management & Rental System
+### [Vehicle Management & Rental System](https://github.com/CodesByMad/vehicle-api)
 
-A back-end project focused on managing a vehicle fleet and rental operations.
+A completed back-end project focused on managing a vehicle fleet and rental operations.
 
 **Features include:**
 
 * Vehicle registration
 * Updating vehicle information
 * Vehicle removal
-* Availability management
+* Vehicle search by ID and license plate
+* Client management
+* Rental management
+* Vehicle availability management
 * Database integration
 * CRUD operations
 
-**Technologies:** JavaScript · Node.js + Express · Sequelize · PostgreSQL
+**Technologies:** JavaScript · Node.js · Express · Sequelize · PostgreSQL
 
 ---
 

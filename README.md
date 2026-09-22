@@ -37,7 +37,7 @@
 
 ---
 
-## `> about_me`
+## `about_me`
 
 I'm **Madeline Almeida**, a Software Engineering student at the **Federal University of Ceará (UFC)** and a **Back-End Developer in training**.
 

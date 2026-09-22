@@ -178,11 +178,11 @@ alt="GitHub Contribution Streak"
 <br>
 
 <p align="center">
-<img
-width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=codesbymad&bg_color=0D0D0D&color=E5E7EB&line=7B2CBF&point=A855F7&area=true&hide_border=true"
-alt="GitHub Activity Graph"
-/>
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=codesbymad&bg_color=0D0D0D&color=E5E7EB&line=7B2CBF&point=A855F7&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <br>

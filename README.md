@@ -30,35 +30,21 @@ At the moment, I'm strengthening my knowledge through academic studies, personal
 
 <div align="center">
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/BACK--END_DEVELOPMENT-0D0D0D?style=for-the-badge&logoColor=A855F7&labelColor=0D0D0D" />
+</p>
 
-<td align="center" width="200">
-<b>BACK-END</b>
-<br>
-<sub>Development</sub>
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
+</p>
 
-<td align="center" width="200">
-<b>PROGRAMMING</b>
-<br>
-<sub>Fundamentals</sub>
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/DATABASES_SQL_%26_MYSQL-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
+</p>
 
-<td align="center" width="200">
-<b>DATABASES</b>
-<br>
-<sub>SQL & MySQL</sub>
-</td>
-
-<td align="center" width="200">
-<b>SOFTWARE</b>
-<br>
-<sub>Engineering</sub>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-0D0D0D?style=for-the-badge&labelColor=0D0D0D" />
+</p>
 
 </div>
 
@@ -66,24 +52,12 @@ At the moment, I'm strengthening my knowledge through academic studies, personal
 
 ---
 
-<div align="center">
-<h2>Technologies</h2>
-</div>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" alt="JavaScript, PHP and MySQL"/>
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-
-<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
-
-<img src="https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logoColor=A855F7" alt="SQL"/>
-
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-
+  <img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-3B176B?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
 </p>
 
 <br>
@@ -252,35 +226,21 @@ alt="GitHub Contribution Snake"
 
 <br>
 
-<table>
-<tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/LEARNING-New_concepts-0D0D0D?style=for-the-badge&labelColor=3B176B&color=0D0D0D" />
+</p>
 
-<td align="center" width="180">
-<b>LEARNING</b>
-<br>
-<sub>New concepts</sub>
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING-New_projects-0D0D0D?style=for-the-badge&labelColor=3B176B&color=0D0D0D" />
+</p>
 
-<td align="center" width="180">
-<b>BUILDING</b>
-<br>
-<sub>New projects</sub>
-</td>
+<p align="center">
+  <img src="https://img.shields.io/badge/DEBUGGING-Understanding_errors-0D0D0D?style=for-the-badge&labelColor=3B176B&color=0D0D0D" />
+</p>
 
-<td align="center" width="180">
-<b>DEBUGGING</b>
-<br>
-<sub>Understanding errors</sub>
-</td>
-
-<td align="center" width="180">
-<b>IMPROVING</b>
-<br>
-<sub>One step at a time</sub>
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/IMPROVING-One_step_at_a_time-0D0D0D?style=for-the-badge&labelColor=3B176B&color=0D0D0D" />
+</p>
 
 <br>
 

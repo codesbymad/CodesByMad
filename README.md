@@ -39,7 +39,7 @@
 
 ## `> about_me`
 
-I'm **Madeline Almeida**, a Software Engineering student at the **Federal University of Ceará (UFC)**, currently focused on building my foundations as a **Back-End Developer**.
+I'm **Madeline Almeida**, a Software Engineering student at the **Federal University of Ceará (UFC)** and a **Back-End Developer in training**.
 
 I enjoy understanding how things work behind the interface — from programming fundamentals and databases to APIs and server-side development.
 

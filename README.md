@@ -14,9 +14,13 @@
 
 </div>
 
----
+<br>
 
-## `about_me`
+<div align="center">
+
+<h2>✦ About Me ✦</h2>
+
+</div>
 
 I'm **Madeline Almeida**, a Software Engineering student at the **Federal University of Ceará (UFC)** and a **Back-End Developer in training**.
 
@@ -24,59 +28,123 @@ I enjoy understanding how things work behind the interface — from programming 
 
 At the moment, I'm strengthening my knowledge through academic studies, personal projects and hands-on practice.
 
-<pre>
-focus/
-├── Back-End Development
-├── Programming Fundamentals
-├── Databases
-└── Software Engineering
-</pre>
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+
+💻
+<br>
+<b>Back-End</b>
+<br>
+<sub>Development</sub>
+
+</td>
+
+<td align="center" width="220">
+
+🧠
+<br>
+<b>Programming</b>
+<br>
+<sub>Fundamentals</sub>
+
+</td>
+
+<td align="center" width="220">
+
+🗄️
+<br>
+<b>Databases</b>
+<br>
+<sub>SQL & MySQL</sub>
+
+</td>
+
+<td align="center" width="220">
+
+🎓
+<br>
+<b>Software</b>
+<br>
+<sub>Engineering</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<h2>⚙️ Technologies</h2>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,php,python,mysql&theme=dark" alt="JavaScript, PHP, Python and MySQL"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logoColor=A855F7" alt="SQL"/>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+
+</div>
+
+<br>
 
 ---
 
-## `technologies`
+<div align="center">
 
-### Languages & Development
+<h2>🚀 Projects</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,php,python&theme=dark" alt="JavaScript, PHP and Python"/>
-</p>
+</div>
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logoColor=A855F7" alt="SQL"/>
-</p>
-
----
-
-## `projects`
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <h3>🚗 Vehicle API</h3>
 
-<p>API project focused on vehicle-related operations.</p>
+<p>
+API project focused on vehicle-related operations.
+</p>
 
 <a href="https://github.com/codesbymad/vehicle-api">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Vehicle API"/>
 </a>
 
+</div>
+
 </td>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <h3>💻 Fundamentos de Programação</h3>
 
-<p>Repository dedicated to programming fundamentals and practice.</p>
+<p>
+Repository dedicated to programming fundamentals and practice.
+</p>
 
 <a href="https://github.com/codesbymad/Fundamentos-de-Programacao">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Programming Fundamentals"/>
 </a>
+
+</div>
 
 </td>
 
@@ -86,93 +154,171 @@ focus/
 
 <td width="50%" valign="top">
 
-<h3>🐍 Curso Python — Gustavo Guanabara</h3>
+<div align="center">
 
-<p>Exercises and practice developed while studying Python.</p>
+<h3>🐍 Curso Python</h3>
+
+<p>
+Exercises and practice developed while studying Python with Gustavo Guanabara.
+</p>
 
 <a href="https://github.com/codesbymad/curso-python-gustavo-guanabara">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Python Course"/>
 </a>
 
+</div>
+
 </td>
 
 <td width="50%" valign="top">
 
+<div align="center">
+
 <h3>🔮 More projects coming</h3>
 
-<p>My GitHub is still being built. More projects will be added as I continue learning and developing.</p>
+<p>
+This profile is still being built.
+<br>
+More projects will be added as I continue learning and developing.
+</p>
+
+</div>
 
 </td>
 
 </tr>
 </table>
 
----
-
-## `github_stats`
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=codesbymad&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=9333EA&text_color=E5E7EB&ring_color=7B2CBF" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbymad&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E7EB" alt="Top Languages"/>
-
-</p>
-
----
-
-## `contribution_streak`
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=codesbymad&hide_border=true&background=0D0D0D&ring=7B2CBF&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
-
-</p>
-
----
-
-## `activity`
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codesbymad&bg_color=0D0D0D&color=E5E7EB&line=7B2CBF&point=A855F7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-
-</p>
-
----
-
-## `trophies`
-
-<p align="center">
-
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=codesbymad&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</p>
-
----
-
-## `contribution_snake`
-
-<p align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/codesbymad/codesbymad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
+<br>
 
 ---
 
 <div align="center">
 
-### `building → learning → improving`
+<h2>📊 GitHub Stats</h2>
 
 <br>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-111111?style=flat-square" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/Back--End-111111?style=flat-square" alt="Back-End"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/>
-<img src="https://img.shields.io/badge/SQL-111111?style=flat-square" alt="SQL"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=codesbymad&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=9333EA&text_color=E5E7EB&ring_color=7B2CBF" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbymad&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E7EB" alt="Top Languages"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>🔥 Contribution Streak</h2>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=codesbymad&hide_border=true&background=0D0D0D&ring=7B2CBF&fire=A855F7&currStreakLabel=A855F7&sideLabels=E5E7EB&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>📈 GitHub Activity</h2>
+
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codesbymad&bg_color=0D0D0D&color=E5E7EB&line=7B2CBF&point=A855F7&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>🏆 GitHub Trophies</h2>
+
+<br>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=codesbymad&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>🐍 Contribution Snake</h2>
+
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/codesbymad/codesbymad/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>✦ Currently Building ✦</h2>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+🎓
+<br>
+<b>Learning</b>
+
+</td>
+
+<td align="center">
+
+💻
+<br>
+<b>Building</b>
+
+</td>
+
+<td align="center">
+
+🐛
+<br>
+<b>Debugging</b>
+
+</td>
+
+<td align="center">
+
+🚀
+<br>
+<b>Improving</b>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<sub>
+Software Engineering student • Back-End Developer in training
+</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=flat-square&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/SQL-0D0D0D?style=flat-square&logoColor=A855F7" alt="SQL"/>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 
 <br><br>
 

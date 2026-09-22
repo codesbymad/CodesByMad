@@ -127,23 +127,11 @@ Exercises and practice developed while studying Python.
 <br>
 
 <p align="center">
-<img
-width="495"
-src="https://github-readme-stats.vercel.app/api?username=codesbymad&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=9333EA&text_color=E5E7EB&ring_color=7B2CBF&cache_seconds=86400"
-alt="GitHub Statistics"
-/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=codesbymad&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=9333EA&text_color=E5E7EB"
+    alt="GitHub Stats"
+  />
 </p>
-
-<br>
-
-<p align="center">
-<img
-width="495"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbymad&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E7EB&cache_seconds=86400"
-alt="Top Languages"
-/>
-</p>
-
 <br>
 
 ---

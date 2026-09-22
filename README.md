@@ -16,7 +16,7 @@
 
 ---
 
-## `> about_me`
+## `about_me`
 
 I'm **Madeline Almeida**, a Software Engineering student at the **Federal University of Ceará (UFC)** and a **Back-End Developer in training**.
 
@@ -34,7 +34,7 @@ focus/
 
 ---
 
-## `> technologies`
+## `technologies`
 
 ### Languages & Development
 
@@ -51,7 +51,7 @@ focus/
 
 ---
 
-## `> projects`
+## `projects`
 
 <table>
 <tr>
@@ -109,7 +109,7 @@ focus/
 
 ---
 
-## `> github_stats`
+## `github_stats`
 
 <p align="center">
 
@@ -121,7 +121,7 @@ focus/
 
 ---
 
-## `> contribution_streak`
+## `contribution_streak`
 
 <p align="center">
 
@@ -131,7 +131,7 @@ focus/
 
 ---
 
-## `> activity`
+## `activity`
 
 <p align="center">
 
@@ -141,7 +141,7 @@ focus/
 
 ---
 
-## `> trophies`
+## `trophies`
 
 <p align="center">
 
@@ -151,7 +151,7 @@ focus/
 
 ---
 
-## `> contribution_snake`
+## `contribution_snake`
 
 <p align="center">
 

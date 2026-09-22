@@ -21,7 +21,7 @@ jobs:
         with:
           username: codesbymad
           file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN1 }}
+          token: ${{ secrets.TOKEN1 }}
 
       - name: Commit trophy
         run: |

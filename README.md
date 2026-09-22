@@ -54,12 +54,6 @@ At the moment, I'm strengthening my knowledge through academic studies, personal
 
 <h2 align="center">Technologies</h2>
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7B2CBF&section=footer"/>
-
-<br>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,mysql&theme=dark" />
   <br>

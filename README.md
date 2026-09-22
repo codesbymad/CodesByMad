@@ -120,6 +120,8 @@ Exercises and practice developed while studying Python.
 
 ---
 
+
+
 <div align="center">
 <h2>GitHub Statistics</h2>
 </div>
@@ -128,10 +130,25 @@ Exercises and practice developed while studying Python.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=codesbymad&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=9333EA&text_color=E5E7EB"
-    alt="GitHub Stats"
+    src="https://github-readme-stats-sage-nine-73.vercel.app/api?username=codesbymad&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A855F7&icon_color=9333EA&text_color=E5E7EB"
+    alt="GitHub Statistics"
   />
 </p>
+
+<br>
+
+---
+<div align="center">
+<h2>GitHub Statistics</h2>
+</div>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sage-nine-73.vercel.app/api/top-langs/?username=codesbymad&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A855F7&text_color=E5E7EB"
+    alt="Top Languages"
+  />
+</p>
+
 <br>
 
 ---

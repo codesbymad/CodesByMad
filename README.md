@@ -196,11 +196,11 @@ alt="GitHub Contribution Streak"
 <br>
 
 <p align="center">
-<img
-width="90%"
-src="https://github-profile-trophy.vercel.app/?username=codesbymad&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"
-alt="GitHub Trophies"
-/>
+  <img
+    width="90%"
+    src="https://github-profile-trophy.vercel.app/?username=codesbymad&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <br>

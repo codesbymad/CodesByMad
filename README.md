@@ -208,17 +208,17 @@ alt="GitHub Contribution Streak"
 ---
 
 <div align="center">
-<h2>Contribution Snake</h2>
+  <h2>Contribution Snake</h2>
 </div>
 
 <br>
 
 <p align="center">
-<img
-width="95%"
-src="https://raw.githubusercontent.com/codesbymad/codesbymad/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
+  <img
+    width="95%"
+    src="https://raw.githubusercontent.com/codesbymad/codesbymad/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <br>

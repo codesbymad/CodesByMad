@@ -190,7 +190,7 @@ alt="GitHub Contribution Streak"
 ---
 
 <div align="center">
-<h2>GitHub Trophies</h2>
+  <h2>GitHub Trophies</h2>
 </div>
 
 <br>
@@ -198,7 +198,7 @@ alt="GitHub Contribution Streak"
 <p align="center">
   <img
     width="90%"
-    src="https://github-profile-trophy.vercel.app/?username=codesbymad&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6"
+    src="https://raw.githubusercontent.com/codesbymad/codesbymad/main/trophy.svg"
     alt="GitHub Trophies"
   />
 </p>
